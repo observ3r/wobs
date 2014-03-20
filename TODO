@@ -1,0 +1,24 @@
+-----------------------------------------
+------------- WOBS ----------------------
+-----------------------------------------
+-Fix Update segfault
+-monitor mode still not implemented.
+-show most recent packet.. or all packets.
+-finish parsing probes
+-Icons for listen and device(s). Insert icon txt
+-listening
+	change to fixed size (mac)
+	enter inferface name in GUI 
+-more error handling 
+-about
+-add settings panel
+	Collect only APs or only Clients
+	timeout value
+	max devices
+	verbosity, how much to collect
+-Save list
+-Open list
+-Triangulate signal
+-Single out only related to certain device(s), tiers..
+-simplify create_list and stuff
+-run cppcheck
