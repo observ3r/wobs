@@ -19,3 +19,4 @@ GtkWidget *g_interface_input;
 struct node* g_head;
 
 device *add_dev(gchar *input_mac);
+int *mac_trans(char *input_mac,char *ven);
